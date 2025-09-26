@@ -2,6 +2,6 @@ class Employee
   {
      public static void main(String args[])
     {
-             local hi
+      remote hi
     }
   }
